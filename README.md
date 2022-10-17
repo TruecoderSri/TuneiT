@@ -3,4 +3,4 @@ Basic Music Player
 
 **Checkout**
 
-https://TruecoderSri.github.io/TunetoiT/
+https://truecodersri.github.io/TuneiT/
